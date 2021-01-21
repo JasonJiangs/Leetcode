@@ -1,5 +1,5 @@
 # -*- codeing = utf-8 -*-
-# @Time : 2020/11/24 17:17 
+# @Time : 2020/11/24 17:17
 # @Author : Jason
 # @File : #2_sum of two nums.py
 # @Software: PyCharm
